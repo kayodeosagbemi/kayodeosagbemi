@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayodeosagbemi
-- 👀 I’m interested in C#, cloud computing, Elixir and Javascript
+- 👀 I’m interested in Python, Golang, C#, cloud computing, Elixir and Javascript
 - 🌱 I’m currently learning data structures and algorithms and brushing up on Java (my first programming language)
 - 💞️ I’m looking to collaborate on building indie projects.
 - 📫 You can reach me on tok2kayode@gmail.com
