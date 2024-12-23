@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kayodeosagbemi
-- 👀 I’m interested in Python, Golang, C#, cloud computing, Elixir and Javascript
-- 🌱 I’m currently learning data structures and algorithms and brushing up on Java (my first programming language)
-- 💞️ I’m looking to collaborate on building indie projects.
+- 👀 I’m skilled in C#, PHP, and Java. I'd like to get deep into Elixir and Rust (aspirations!)
+- 🌱 I’m currently learning data structures and algorithms and System Design for large scale distributed systems
 - 📫 You can reach me on tok2kayode@gmail.com
 
 <!---
